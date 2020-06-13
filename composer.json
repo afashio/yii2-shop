@@ -1,12 +1,12 @@
 {
-    "name": "dvizh/yii2-shop",
+    "name": "afashio/yii2-shop",
     "description": "yii2-shop it's a module for site shop backend",
     "keywords": ["yii2", "yii 2", "application", "backend", "crud", "shop", "module", "dvizh"],
     "homepage": "https://github.com/dvizh/yii2-shop",
     "type": "yii2-extension",
     "license": "Apache-2.0",
     "support": {
-        "source": "https://github.com/dvizh/yii2-shop"
+        "source": "https://github.com/afashio/yii2-shop"
     },
     "authors": [
         {
